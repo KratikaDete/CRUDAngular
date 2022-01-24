@@ -16,9 +16,9 @@ CRUD operation with Angular, Bootstrap, .NET Core Web API and Entity framework (
     ![image](https://user-images.githubusercontent.com/97409456/150730546-a082ef6d-995c-4f5c-9c7f-b5d3b8972138.png)
 --> Add new Inventory<br/>
     ![image](https://user-images.githubusercontent.com/97409456/150730623-f64f9007-5366-4f4a-a5ab-96b601e5ad00.png)
---> Edit existing Inventory<br/>
+<br/>--> Edit existing Inventory<br/>
     ![image](https://user-images.githubusercontent.com/97409456/150730677-b4cf4cbb-6175-40fe-b9db-e0f8904a11b2.png)
---> View Inventory<br/>
+<br/>--> View Inventory<br/>
     ![image](https://user-images.githubusercontent.com/97409456/150730732-da02692a-ddfc-497a-b2ea-0f8f15ac17f3.png)
 
     
