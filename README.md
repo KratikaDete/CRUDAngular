@@ -10,4 +10,5 @@ CRUD operation with Angular and .NET Core Web API
     ng generate component Inventory/create<br/>
     ng generate component Inventory/view<br/>
     ng generate component Inventory/edit<br/>
+--> Create new service using Angular CLI command ng generate service Inventory/inventory<br/>
     
