@@ -1,5 +1,5 @@
 # CRUD Operations Angular
-CRUD operation with Angular and .NET Core Web API and Entity framework (In memory database)
+CRUD operation with Angular, Bootstrap, .NET Core Web API and Entity framework (In memory database)
 
 ## Steps Followed for Angular Project<br/>
 --> Create new project with ng new <Project Name> <br/>
