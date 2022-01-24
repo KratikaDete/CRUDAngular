@@ -2,7 +2,7 @@
 CRUD operation with Angular, Bootstrap, .NET Core Web API and Entity framework (In memory database)
 
 ## Steps Followed for Angular Project<br/>
---> Create new project with ng new <Project Name> <br/>
+--> Create new project with ng new Project Name <br/>
 --> Create new Module with ng generate module Inventory<br/>
 --> Create new interface ng generate module Inventory/inventory<br/>
 --> Create 4 new components using Angular CLI command<br/>
@@ -23,7 +23,7 @@ CRUD operation with Angular, Bootstrap, .NET Core Web API and Entity framework (
 
     
  ## Steps Followed for Web API Project<br/>
- --> Create new Web API project with command dotnet new webapi -n <Project name>   
+ --> Create new Web API project with command dotnet new webapi -n Project name   
  --> Add reference to below nuget packages<br/>
     Microsoft.EntityFrameworkCore<br/>
     Microsoft.EntityFrameworkCore.InMemory<br/>
