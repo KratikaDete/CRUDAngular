@@ -20,6 +20,8 @@ CRUD operation with Angular and .NET Core Web API and Entity framework (In memor
   --> Add Interface IInventoryR for required actions<br/>
   --> Implement interface IInventoryRepository in class InventoryRepository<br/>
   --> Add new Controller with Name inventory Controller and implement following API action methods<br/>
+   ![image](https://user-images.githubusercontent.com/97409456/150730192-a846811a-ee74-4f51-98cb-bd34c83c8523.png)
+
     
    
                                                                                                  
