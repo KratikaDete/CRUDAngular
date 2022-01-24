@@ -1,0 +1,26 @@
+<div class="container">
+    <h1>Inventory List</h1>
+    <a routerLink="/inventory/create/" class="btn btn-success">Add New Inventory</a>
+    <table class="table table-bordered">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th width="220px">Action</th>
+        </tr>
+        <tr *ngFor="let inventory of inventories">
+            <td>{{ inventory.id }}</td>
+            <td>{{ inventory.name }}</td>
+            <td>{{ inventory.description }}</td>
+            <td>{{ inventory.price }}</td>
+            <td>
+                <div class="btn-group">
+                    <a href="#" [routerLink]="['/inventory/', inventory.id, 'view']" class="btn btn-info">View</a>
+                    <a href="#" [routerLink]="['/inventory/', inventory.id, 'edit']" class="btn btn-primary">Edit</a>
+                    <button type="button" (click)="deletePost(inventory.id)" class="btn btn-danger">Delete</button>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
